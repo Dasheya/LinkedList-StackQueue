@@ -1,0 +1,5 @@
+C:\Users\darsh\source\repos\DATA STRUCTURE\DATA STRUCTURE\obj\Debug\net6.0\DATA STRUCTURE.csproj.AssemblyReference.cache
+C:\Users\darsh\source\repos\DATA STRUCTURE\DATA STRUCTURE\obj\Debug\net6.0\DATA STRUCTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\source\repos\DATA STRUCTURE\DATA STRUCTURE\obj\Debug\net6.0\DATA STRUCTURE.AssemblyInfoInputs.cache
+C:\Users\darsh\source\repos\DATA STRUCTURE\DATA STRUCTURE\obj\Debug\net6.0\DATA STRUCTURE.AssemblyInfo.cs
+C:\Users\darsh\source\repos\DATA STRUCTURE\DATA STRUCTURE\obj\Debug\net6.0\DATA STRUCTURE.csproj.CoreCompileInputs.cache
